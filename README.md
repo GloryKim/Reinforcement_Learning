@@ -1,8 +1,8 @@
 # Reinforcement_Learning
 
-##강화학습 수업 과제 업로드 용도
+## 강화학습 수업 과제 업로드 용도
 
-###4Weeks
+### 4Weeks
 OpenAI Gym 환경중에서
 
 1. MountainCar-v0
